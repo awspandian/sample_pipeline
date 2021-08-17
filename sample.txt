@@ -7,3 +7,7 @@ git commit -m
 git push
 
 git stash
+
+git squash
+
+git cherry-pick
