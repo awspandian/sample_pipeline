@@ -11,3 +11,5 @@ git stash
 git squash
 
 git cherry-pick
+
+.gitignore
