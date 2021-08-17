@@ -13,3 +13,5 @@ git squash
 git cherry-pick
 
 .gitignore
+
+git fetch
